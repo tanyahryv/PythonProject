@@ -1,6 +1,10 @@
 age = 26;
 name = "Tanya"
+eye_color = "Blue"
+education = "master"
 
-print('Возраст {0} {1} лет.'.format(name,age))
-print('Почему {} забавляется с этим Python?'.format(name))
+print('{} }has {} eyes.'.format(name,eye_color))
+print("She is {} years old".format(age))
+print("She is a {} degree".format(education))
+
 
